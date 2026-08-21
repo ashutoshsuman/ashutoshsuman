@@ -19,7 +19,7 @@ These are exercises, not production software, and I'd rather label them that way
 
 - **[langGraphLoanApp](https://github.com/ashutoshsuman/langGraphLoanApp)** — a LangGraph agent with typed shared state, a bounded refinement loop, and human-in-the-loop re-entry. Built to understand where agent loops need hard iteration caps.
 - **[promptQualityAgent](https://github.com/ashutoshsuman/promptQualityAgent)** — a LangChain pipeline with Pydantic-structured output and `RunnableBranch` routing to an improvement chain. Built to understand why structured output is what makes conditional routing possible.
-- **[RAGdexp](https://github.com/ashutoshsuman/RAGdexp)** — retrieval-augmented generation end to end.
+- **[RAGexp](https://github.com/ashutoshsuman/RAGexp)** — retrieval-augmented generation end to end.
 - **[agentSwarm](https://github.com/ashutoshsuman/agentSwarm)** — multi-agent orchestration and task handoff.
 
 ### What I'm actually for
